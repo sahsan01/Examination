@@ -40,15 +40,6 @@ Address: 2600:1417:3f:128f::700
 Server:		192.168.222.2
 Address:	192.168.222.2#53
 
-
-
-Server:		192.168.222.2
-Address:	192.168.222.2#53
-
-
-Server:		192.168.222.2
-Address:	192.168.222.2#53
-
 Non-authoritative answer:
 akamai-apigateway-deliveryopsapi.tesla.com	canonical name = akamai-apigateway-deliveryopsapi.tesla.com.edgekey.net.
 akamai-apigateway-deliveryopsapi.tesla.com.edgekey.net	canonical name = e1792.dscx.akamaiedge.net.
